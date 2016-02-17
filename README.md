@@ -36,9 +36,16 @@ MIT App Inventor Introduction
 ## Connect phone
 
 - Connecting to a phone or tablet with a USB cable (http://appinventor.mit.edu/explore/ai2/setup-device-usb.html#step2)
+
+![Screenshot](aiStarter.png)
+
 - Connection test: (http://appinventor.mit.edu/test/)
 
+![Screenshot](ScreenshotDeviceConnected.png)
 
 ## Tutorial
 
 - Talk To Me (part 1), MIT App Inventor Tutorial #1 (https://www.youtube.com/watch?v=Vdo8UdkgDD8)
+
+![Screenshot](ScreenshotBlocksUI)
+![Screenshot](ScreenshotBlocksUI2)
