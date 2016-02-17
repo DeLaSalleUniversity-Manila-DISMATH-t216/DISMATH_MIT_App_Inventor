@@ -19,6 +19,19 @@ MIT App Inventor Introduction
 - Before you begin, make sure you have access to the following things: (1) Internet; and (2) A Gmail account (this is how you will log in to App Inventor) | Use DLSU gmail account.
 - Start the Designer and create a new project. Follow the instructions here: (http://appinventor.mit.edu/explore/start-first-time.html)
 
+![Screenshot](ScreenshotUI.png)
+
+![Screenshot](ScreenshotNewProject.png)
+
+![Screenshot](ScreenshotUI2.png)
+
+- Add button
+
+![Screenshot](ScreenshotButton.png)
+
+- Change button text
+
+![Screenshot](ScreenshotKausapinMoKo.png)
 
 ## Connect phone
 
