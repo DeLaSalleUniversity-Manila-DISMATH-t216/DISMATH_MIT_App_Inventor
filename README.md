@@ -50,3 +50,5 @@ MIT App Inventor Introduction
 ![Screenshot](ScreenshotBlocksUI.png)
 
 ![Screenshot](ScreenshotBlocksUI2.png)
+
+![Screenshot](ScreenshotBlocksUI3.png)
