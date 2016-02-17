@@ -6,3 +6,4 @@ MIT App Inventor Introduction
 
 - MIT App Inventor: Mobile Apps. Built by You. (https://www.youtube.com/watch?v=sNjGAiOrX-o) 
 - FYI: (http://appinventor.mit.edu/explore/)
+- Tutorials: (http://appinventor.mit.edu/explore/ai2/tutorials?)
