@@ -47,5 +47,6 @@ MIT App Inventor Introduction
 
 - Talk To Me (part 1), MIT App Inventor Tutorial #1 (https://www.youtube.com/watch?v=Vdo8UdkgDD8)
 
-![Screenshot](ScreenshotBlocksUI)
-![Screenshot](ScreenshotBlocksUI2)
+![Screenshot](ScreenshotBlocksUI.png)
+
+![Screenshot](ScreenshotBlocksUI2.png)
