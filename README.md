@@ -19,13 +19,34 @@ MIT App Inventor Introduction
 - Before you begin, make sure you have access to the following things: (1) Internet; and (2) A Gmail account (this is how you will log in to App Inventor) | Use DLSU gmail account.
 - Start the Designer and create a new project. Follow the instructions here: (http://appinventor.mit.edu/explore/start-first-time.html)
 
+![Screenshot](ScreenshotUI.png)
+
+![Screenshot](ScreenshotNewProject.png)
+
+![Screenshot](ScreenshotUI2.png)
+
+- Add button
+
+![Screenshot](ScreenshotButton.png)
+
+- Change button text
+
+![Screenshot](ScreenshotKausapinMoKo.png)
 
 ## Connect phone
 
 - Connecting to a phone or tablet with a USB cable (http://appinventor.mit.edu/explore/ai2/setup-device-usb.html#step2)
+
+![Screenshot](aiStarter.PNG)
+
 - Connection test: (http://appinventor.mit.edu/test/)
 
+![Screenshot](ScreenshotDeviceConnected.png)
 
 ## Tutorial
 
 - Talk To Me (part 1), MIT App Inventor Tutorial #1 (https://www.youtube.com/watch?v=Vdo8UdkgDD8)
+
+![Screenshot](ScreenshotBlocksUI.png)
+
+![Screenshot](ScreenshotBlocksUI2.png)
