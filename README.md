@@ -1,6 +1,40 @@
 # DISMATH_MIT_App_Inventor
 
-MIT App Inventor Introduction
+
+SUBMISSIONS:
+
+1. DISMATH_Project0.0: Hello World! App
+
+2. DISMATH_ProjectBonus: Linear Search and Binary Search
+
+Requirements:
+
+/***********************************************************/
+
+1. Input: 
+a.) Array/LIst: 1 2 3 5 6 7 8 10 12 13 15 16 18 19 20 22
+b.) x - searched element
+
+2. Output: location: (0,..,15); -1 if not found
+                           
+3. Display output value if found.
+
+4. Display "NOT found" if element is not found.
+
+5. Implement using both Linear Search and Binary Search
+
+6. Submit in Github.
+
+/***********************************************************/
+
+Due: March 9,2016 WEDNESDAY (EQ)
+Due: March 10,2016 THURSDAY (EL/EK)
+
+/***********************************************************/
+
+
+
+# MIT App Inventor Introduction
 
 ## What is MIT App Inventor?
 
