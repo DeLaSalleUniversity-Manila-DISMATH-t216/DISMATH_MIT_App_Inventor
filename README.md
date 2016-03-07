@@ -1,4 +1,4 @@
-# DISMATH_MIT_App_Inventor
+# DISMATH_MIT_App_Inventor Exploration
 
 
 SUBMISSIONS:
